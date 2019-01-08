@@ -32,6 +32,7 @@
 .fonte8{
   font-family: 'Lato', sans-serif;
   font-size: 60px;
+  text-shadow: 2px 5px 6px rgba(0, 0, 0, 1);
 }
 .fonte9{
   font-family: 'Lato', sans-serif;
@@ -44,6 +45,7 @@
  .cor-titulo{
    color: white;
    text-decoration: none;
+   text-shadow: 2px 5px 6px rgba(0, 0, 0, 1);
   }
 
 .cor-titulo:visited { color: white; }
@@ -59,6 +61,7 @@ text-decoration: none;
  .cor-titulo2{
    color: #696969;
    text-decoration: none;
+   text-shadow: 2px 1px 3px rgba(0, 0, 0, 1);
   }
 
 .cor-titulo2:visited { color: #696969 ; }
